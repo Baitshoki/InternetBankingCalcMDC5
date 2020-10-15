@@ -1,0 +1,5 @@
+C:\Users\DELL\Source\Repos\InternetBankingRESTfulServiceApi\obj\Debug\netcoreapp3.1\InternetBankingRESTfulServiceApi.csprojAssemblyReference.cache
+C:\Users\DELL\Source\Repos\InternetBankingRESTfulServiceApi\obj\Debug\netcoreapp3.1\InternetBankingRESTfulServiceApi.AssemblyInfoInputs.cache
+C:\Users\DELL\Source\Repos\InternetBankingRESTfulServiceApi\obj\Debug\netcoreapp3.1\InternetBankingRESTfulServiceApi.AssemblyInfo.cs
+C:\Users\DELL\Source\Repos\InternetBankingRESTfulServiceApi\obj\Debug\netcoreapp3.1\InternetBankingRESTfulServiceApi.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Source\Repos\InternetBankingRESTfulServiceApi\obj\Debug\netcoreapp3.1\InternetBankingRESTfulServiceApi.MvcApplicationPartsAssemblyInfo.cache
